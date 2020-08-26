@@ -1,0 +1,44 @@
+body{background-color: rgba(204, 228, 245, 0.952);}
+
+div.odsimg {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;  
+  }
+
+  div.odsvideo {
+    text-align: center;
+  }
+
+p.legenda{text-align: center;
+        margin-top: 10px;
+        font-weight: bold;
+}
+
+div.odsimg1 {
+    text-align: center;
+    margin-top: -80px;
+  }
+
+.título{font-weight: bold;
+        font-family:"arial";
+}
+
+p.subtítulo{font-family:"arial";
+            line-height: 30px;
+            text-align: justify;
+            font-weight: bold;
+}
+
+p{font-family:"arial";
+    line-height: 30px;
+    text-align: justify;
+}
+
+p.final{font-family:"arial";
+    line-height: 30px;
+    text-align: center;
+    font-weight: bold 
+}
+
+.foto{text-align: center}
